@@ -1,0 +1,4 @@
+Notes:
+
+1. The data load files can be run as SQL scripts and the DDL's run as SQL commands
+2. The package contains the code for creating and employee, updating salary and switching departments etc.

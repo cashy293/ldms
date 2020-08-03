@@ -75,5 +75,5 @@ SELECT department_id
 ,      employee_id
 FROM employee
 WHERE employee_name = 'John Smith'
---RESULT: 4, 1. Success
+--RESULT: 1, 1. Success
 ; 

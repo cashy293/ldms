@@ -44,7 +44,7 @@ WHERE employee_name = 'John Smith'
  END; 
 
  
---Test creating employee
+--Test Updating Salary
 SELECT salary
 ,      employee_id
 FROM employee
